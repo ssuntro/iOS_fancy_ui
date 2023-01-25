@@ -9,6 +9,11 @@ To explore new iOS UI features such as
 1. Customizing the Appearance of iOS notification badge
 1. animation in checkout flow of "Apple store" app as record below.
 <img width="100" alt="demo" src="https://user-images.githubusercontent.com/17498546/213407804-b30da7af-141e-4009-bc08-d06563028838.MP4">
+1. collection cell animation and shortcut menu
+<img width="100" alt="demo" src="https://user-images.githubusercontent.com/17498546/214482993-36ec5f59-6219-4ab1-96af-cf36ec89f251.MP4">
+
+
+
 
 
 
