@@ -4,9 +4,7 @@
 ### Learning objectives
 To explore iOS fansy features such as  
 
-
-
-| feature | example UI | Note |
+| Feature |Example UI  | Note |
 | ----------- | ----------- | ----------- | 
 | 3 shapes of iPadOS, iOS, or watchOS's widget at home screen | <img width="2000" alt="Loading screen" src="https://tanaschita.com/static/f5b8ec64ca16207d29439cf11db95d91/2e9ed/20220815-widget-examples.png"> <br /> <img width="300" alt="diff widget content" src="https://user-images.githubusercontent.com/17498546/217995848-79268af6-79a0-4ff3-b2e2-46309ed8fc1b.PNG"> <img width="500" alt="widget in diff OS" src="https://developer.apple.com/widgets/images/lockup-hero-large_2x.png">| - Applicable to build with SwiftUI, <br /> - Customise content inside such as update reltime data(Maps), circle graphic(battery status), or graph(stock or app usage widget) <br /> - in diff platform iPadOS, iOS, and watchOS|
 | Static quick action for iOS app|<img width="500" alt="Screen Shot 2566-02-10 at 10 50 52" src="https://user-images.githubusercontent.com/17498546/217996291-76657b4b-9296-4a9c-a3e1-b578e33fd323.png"> | TBD |
